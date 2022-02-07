@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipaliziman
 - 👀 I’m interested in ...Data analytics
-- 🌱 I’m currently learning ...Data analytics
+- 🌱 I’m currently learning ...Data analytics, machine learning
 - 💞️ I’m looking to collaborate on ...Data science project
 - 📫 How to reach me ... diwali. Ziman@gmail.com
 
